@@ -18,9 +18,7 @@
   #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
